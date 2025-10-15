@@ -1,4 +1,3 @@
-
 # 🎯 Growth Hack: Search Intent Analysis
 
 ## Goal
